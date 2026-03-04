@@ -26,7 +26,7 @@ Turning ideas into reality, one project at a time. 🚀
 
 ## 📫 How to reach me
 - GitHub: [@jailideaid](https://github.com/jailideaid)
-- Email: magiskpeople@gmail.com
+- Email: jailideaid@gmail.com
 
 ---
 

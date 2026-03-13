@@ -1,11 +1,11 @@
-# Hi there 👋, I'm Jail Idea
+# Hi there I'm Jail Idea
 
 **Code, debug, repeat** — ESP, Arduino, Python, AI, Web & more.  
-Turning ideas into reality, one project at a time. 🚀
+Turning ideas into reality, one project at a time.
 
 ---
 
-## 🔧 Technologies & Skills
+## Technologies & Skills
 - **Languages:** Python, C/C++, Arduino, JavaScript, PHP
 - **AI / ML:** ChatGPT integration, AI tools, automation
 - **Web Development:** HTML, CSS, JS, Laravel, REST API, Fullstack
@@ -15,7 +15,7 @@ Turning ideas into reality, one project at a time. 🚀
 
 ---
 
-## 🌐 Projects & Interests
+## Projects & Interests
 - IoT & embedded systems with ESP & Arduino  
 - AI-powered tools & chatbots  
 - Fullstack web apps & dashboards  
@@ -24,10 +24,10 @@ Turning ideas into reality, one project at a time. 🚀
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 - GitHub: [@jailideaid](https://github.com/jailideaid)
 - Email: jailideaid@gmail.com
 
 ---
 
-> “Ideas are cheap, execution is everything.” 💡
+> “Ideas are cheap, execution is everything.” 

@@ -1,5 +1,7 @@
 # Hello baby girls I'm Jail Idea
 
+> I have promised not to release the open-source code for the song, because it is too dangerous and many people would misuse it.
+
 ## How to reach me
 - GitHub: [@jailideaid](https://github.com/jailideaid)
 - Email: jailideaid@gmail.com

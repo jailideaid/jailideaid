@@ -2,8 +2,8 @@
 
 > I have promised not to release the open-source code for the song, because it is too dangerous and many people would misuse it.
 
+> “Ideas are cheap, execution is everything.”
+
 ## How to reach me
 - GitHub: [@jailideaid](https://github.com/jailideaid)
 - Email: jailideaid@gmail.com
-
-> “Ideas are cheap, execution is everything.” 

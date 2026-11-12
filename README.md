@@ -1,4 +1,4 @@
-# Hi there I'm Jail Idea
+# Hello baby girls I'm Jail Idea
 
 ## How to reach me
 - GitHub: [@jailideaid](https://github.com/jailideaid)
